@@ -1,0 +1,9 @@
+requests>=2.31
+python-dotenv>=1.0
+faster-whisper>=1.0
+imageio-ffmpeg>=0.5
+Pillow>=10.0
+google-auth-oauthlib>=1.2
+google-api-python-client>=2.100
+yt-dlp>=2024.1.0
+anthropic>=0.40
